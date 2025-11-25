@@ -7,12 +7,12 @@
   },
   "favicon": "/The Emblem.png",
   "colors": {
-    "primary": "#06df4b",
-    "light": "#06df4b",
-    "dark": "#65fe50",
+    "primary": "#5e17eb",
+    "light": "#5e17eb",
+    "dark": "#5e17eb",
     "anchors": {
       "from": "#01df4a",
-      "to": "#65fe50"
+      "to": "#5e17eb"
     }
   },
   "topAnchor": {
