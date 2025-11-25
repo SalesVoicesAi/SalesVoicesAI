@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Sales Voices AI",
   "logo": {
-    "dark": "/resources/logo/dark.png",
-    "light": "/resources/logo/light.png"
+    "dark": "/resources/logo/darksvai.png",
+    "light": "/resources/logo/lightsvai.png"
   },
   "favicon": "/The Emblem.png",
   "colors": {
